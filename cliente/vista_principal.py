@@ -88,7 +88,7 @@ class FramePrincipal(tk.Frame):
         texto = (
             "Sistema de Gestión Veterinaria\n\n"
             "Versión: 1.0\n"
-            "Desarrollado por: Sebastian Puchetti y Julieta Castro \n\n"
+            "Desarrollado por: Sebastian Puchetti y Julieta Gutierrez \n\n"
             "Este software permite gestionar información sobre mascotas, dueños y visitas "
             "de manera eficiente, con una interfaz sencilla y funcional."
         )
