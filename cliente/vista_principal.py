@@ -66,7 +66,7 @@ class FramePrincipal(tk.Frame):
         btn_visitas.grid(row=0, column=2, padx=10, pady=10)
 
         # Texto con derechos de autor
-        texto = "C(2024) por Sebastian Puchetti y Julieta Castro para TecnoF - Python Intermedio"
+        texto = "C(2024) por Sebastian Puchetti y Julieta Gutierrez para TecnoF - Python Intermedio"
         
         label_texto = tk.Label(self, text=texto, font=("Arial", 7), bg="#F0F0F0", justify="center")
         label_texto.grid(row=2, column=0, columnspan=2, sticky="nsew", padx=10, pady=10)
